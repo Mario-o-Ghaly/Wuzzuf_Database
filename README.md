@@ -7,9 +7,9 @@ Description and details of tbe project is attached as a powerpoint in the main p
 
 The folders divided into the following:
 - ***Code + Excutable***, which has the final user application together with the .py file for the code. This was done in milestone3 of the project, so you would find the same folder in milestone 3. I just added it to the main page for simplicity. 
-- **DB_Milestone#1**, which has the database ER & ERD and the SQL statements for creating the tables.
-- **DB_Milestone#2**, which has the crawling/scrapping script, MySQL dump file for the data, and the CSV values deduced from the web scrapping.
-- **DB_Milestone#3**, which has the application code, the excutable file and the demo link along with the dump files divided according to the table for migrating the data to db4free.
+- ***DB_Milestone#1***, which has the database ER & ERD and the SQL statements for creating the tables.
+- ***DB_Milestone#2***, which has the crawling/scrapping script, MySQL dump file for the data, and the CSV values deduced from the web scrapping.
+- ***DB_Milestone#3***, which has the application code, the excutable file and the demo link along with the dump files divided according to the table for migrating the data to db4free.
   
 
 ## User Guide
